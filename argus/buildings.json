@@ -1,0 +1,148 @@
+{
+    "buildings": [
+        {
+            "id": 1,
+            "city": "Budapest",
+            "address": "Kossuth tér 1.",
+            "usage": "iroda",
+            "size": 200,
+            "price": 22.5
+        },
+        {
+            "id": 2,
+            "city": "Debrecen",
+            "address": "Piac utca 8.",
+            "usage": "üzlethelyiség",
+            "size": 120,
+            "price": 13.2
+        },
+        {
+            "id": 3,
+            "city": "Szeged",
+            "address": "Rókus utca 12.",
+            "usage": "lakás",
+            "size": 80,
+            "price": 8.9
+        },
+        {
+            "id": 4,
+            "city": "Pécs",
+            "address": "Széchenyi tér 5.",
+            "usage": "iroda",
+            "size": 150,
+            "price": 16.8
+        },
+        {
+            "id": 5,
+            "city": "Szombathely",
+            "address": "Fő tér 10.",
+            "usage": "üzlethelyiség",
+            "size": 100,
+            "price": 11.2
+        },
+        {
+            "id": 6,
+            "city": "Győr",
+            "address": "Hősök tere 3.",
+            "usage": "lakás",
+            "size": 70,
+            "price": 7.8
+        },
+        {
+            "id": 7,
+            "city": "Miskolc",
+            "address": "Erzsébet tér 6.",
+            "usage": "iroda",
+            "size": 180,
+            "price": 20.2
+        },
+        {
+            "id": 8,
+            "city": "Nyíregyháza",
+            "address": "Petőfi tér 7.",
+            "usage": "üzlethelyiség",
+            "size": 110,
+            "price": 12.3
+        },
+        {
+            "id": 9,
+            "city": "Székesfehérvár",
+            "address": "Ady Endre utca 9.",
+            "usage": "lakás",
+            "size": 90,
+            "price": 10.1
+        },
+        {
+            "id": 10,
+            "city": "Kecskemét",
+            "address": "Szent István tér 11.",
+            "usage": "iroda",
+            "size": 160,
+            "price": 17.9
+        },
+        {
+            "id": 11,
+            "city": "Szolnok",
+            "address": "Dózsa György út 2.",
+            "usage": "üzlethelyiség",
+            "size": 130,
+            "price": 14.6
+        },
+        {
+            "id": 12,
+            "city": "Veszprém",
+            "address": "Kossuth utca 13.",
+            "usage": "lakás",
+            "size": 75,
+            "price": 8.4
+        },
+        {
+            "id": 13,
+            "city": "Eger",
+            "address": "Dobó tér 14.",
+            "usage": "iroda",
+            "size": 170,
+            "price": 19.0
+        },
+        {
+            "id": 14,
+            "city": "Szekszárd",
+            "address": "Kossuth Lajos tér 15.",
+            "usage": "üzlethelyiség",
+            "size": 95,
+            "price": 10.6
+        },
+        {
+            "id": 15,
+            "city": "Zalaegerszeg",
+            "address": "Dózsa György tér 16.",
+            "usage": "lakás",
+            "size": 85,
+            "price": 9.5
+        },
+        {
+            "id": 16,
+            "city": "Vác",
+            "address": "Kossuth tér 17.",
+            "usage": "iroda",
+            "size": 190,
+            "price": 21.3
+        },
+        {
+            "id": 17,
+            "city": "Sopron",
+            "address": "Fő tér 18.",
+            "usage": "üzlethelyiség",
+            "size": 105,
+            "price": 11.7
+        },
+        {
+            "id": 18,
+            "city": "Nagykanizsa",
+            "address": "Szabadság tér 19.",
+            "usage": "lakás",
+            "size": 88,
+            "price": 9.8
+        }
+    ]
+}

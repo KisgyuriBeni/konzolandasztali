@@ -1,0 +1,19 @@
+id,city,address,usage,size,price
+1,Budapest,Kossuth tér 1.,iroda,200,22.5
+2,Debrecen,Piac utca 8.,üzlethelyiség,120,13.2
+3,Szeged,Rókus utca 12.,lakás,80,8.9
+4,Pécs,Széchenyi tér 5.,iroda,150,16.8
+5,Szombathely,Fő tér 10.,üzlethelyiség,100,11.2
+6,Győr,Hősök tere 3.,lakás,70,7.8
+7,Miskolc,Erzsébet tér 6.,iroda,180,20.2
+8,Nyíregyháza,Petőfi tér 7.,üzlethelyiség,110,12.3
+9,Székesfehérvár,Ady Endre utca 9.,lakás,90,10.1
+10,Kecskemét,Szent István tér 11.,iroda,160,17.9
+11,Szolnok,Dózsa György út 2.,üzlethelyiség,130,14.6
+12,Veszprém,Kossuth utca 13.,lakás,75,8.4
+13,Eger,Dobó tér 14.,iroda,170,19
+14,Szekszárd,Kossuth Lajos tér 15.,üzlethelyiség,95,10.6
+15,Zalaegerszeg,Dózsa György tér 16.,lakás,85,9.5
+16,Vác,Kossuth tér 17.,iroda,190,21.3
+17,Sopron,Fő tér 18.,üzlethelyiség,105,11.7
+18,Nagykanizsa,Szabadság tér 19.,lakás,88,9.8
